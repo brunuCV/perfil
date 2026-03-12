@@ -7,65 +7,64 @@
 ## 🚀 Sobre Mim
 Estou em uma jornada para me tornar um **Engenheiro de IA**, unindo os mundos de **Engenharia de Dados** e **Machine Learning**. Acredito que o poder da inteligência artificial começa com dados bem estruturados e termina com modelos que geram impacto real.
 
-- 🎓 Atualmente aprofundando estudos em **Algoritmos de ML** e **Pipelines de Dados**.
-- 🛠️ Construindo uma base sólida em **Python, SQL e Estatística**.
-- 🔭 Buscando transformar dados brutos em insights inteligentes.
+- 🎓 Atualmente focado em **Arquitetura de Dados** e **Modelagem Preditiva**.
+- 🛠️ Especializando em **Python, SQL e Ecossistema de IA**.
+- 🔭 Desenvolvendo soluções para transformar dados brutos em inteligência.
 
 ---
 
-## 📊 Áreas de Foco (Learning Path)
+## 📊 Pipeline de Estudos (Data & AI)
 
 <table align="center">
   <tr>
     <td align="center" width="33%">
       <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="50px" /><br>
-      <b>Engenharia de Dados</b><br>
-      ETL, SQL, Spark, NoSQL, Cloud
+      <b>Data Engineering</b><br>
+      ETL, SQL, Spark, Bancos de Dados
     </td>
     <td align="center" width="33%">
       <img src="https://cdn-icons-png.flaticon.com/512/1693/1693746.png" width="50px" /><br>
       <b>Machine Learning</b><br>
-      Scikit-learn, Modelagem, Deep Learning, MLOps
+      Scikit-learn, Modelagem, Deep Learning
     </td>
     <td align="center" width="33%">
       <img src="https://cdn-icons-png.flaticon.com/512/1155/1155187.png" width="50px" /><br>
-      <b>Métricas & Analytics</b><br>
-      Pandas, NumPy, Viz (Matplotlib/Seaborn)
+      <b>Data Science</b><br>
+      Pandas, NumPy, Estatística Aplicada
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas (Foco em IA e Dados)
+## 🛠️ Tech Stack (Foco em IA e Dados)
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  </p>
-
----
-
-## 📈 Atividade no GitHub
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brunuCV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunuCV&layout=compact&theme=tokyonight"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
 ---
 
-## 📫 Vamos nos conectar?
+## 📈 My GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunuCV&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+</p>
+
+---
+
+## 📫 Conecte-se comigo
 <p align="left">
-  <a href="[SEU_LINK_DO_LINKEDIN_AQUI](https://www.linkedin.com/in/brunocvidal/)" target="_blank">
+  <a href=https://www.linkedin.com/in/brunocvidal/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW93bmh4ZzR6bmZ6ZzR6bmZ6ZzR6bmZ6ZzR6bmZ6ZzR6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueW93bmh4ZzR6bmZ6ZzR6bmZ6ZzR6bmZ6ZzR6bmZ6ZzR6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300px">
 </p>
-
