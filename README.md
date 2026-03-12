@@ -20,31 +20,33 @@ Estou em uma jornada para me tornar um **Engenheiro de IA**, unindo os mundos de
     <td align="center" width="33%">
       <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="50px" /><br>
       <b>Engenharia de Dados</b><br>
-      ETL, SQL, Spark, NoSQL
+      ETL, SQL, Spark, NoSQL, Cloud
     </td>
     <td align="center" width="33%">
       <img src="https://cdn-icons-png.flaticon.com/512/1693/1693746.png" width="50px" /><br>
       <b>Machine Learning</b><br>
-      Scikit-learn, Modelagem, Deep Learning
+      Scikit-learn, Modelagem, Deep Learning, MLOps
     </td>
     <td align="center" width="33%">
       <img src="https://cdn-icons-png.flaticon.com/512/1155/1155187.png" width="50px" /><br>
       <b>Métricas & Analytics</b><br>
-      Pandas, Seaborn, Estatística
+      Pandas, NumPy, Viz (Matplotlib/Seaborn)
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias & Ferramentas (Foco em IA e Dados)
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  </p>
 
 ---
 
@@ -58,11 +60,12 @@ Estou em uma jornada para me tornar um **Engenheiro de IA**, unindo os mundos de
 
 ## 📫 Vamos nos conectar?
 <p align="left">
-  <a href="SEU_LINK_DO_LINKEDIN_AQUI" target="_blank">
+  <a href="[SEU_LINK_DO_LINKEDIN_AQUI](https://www.linkedin.com/in/brunocvidal/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW93bmh4ZzR6bmZ6ZzR6bmZ6ZzR6bmZ6ZzR6bmZ6ZzR6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300px">
+</p>">
 </p>
