@@ -67,5 +67,9 @@ Estou em uma jornada para me tornar um **Engenheiro de IA**, unindo os mundos de
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW93bmh4ZzR6bmZ6ZzR6bmZ6ZzR6bmZ6ZzR6bmZ6ZzR6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300px">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW93bmh4ZzR6bmZ6ZzR6bmZ6ZzR6bmZ6ZzR6bmZ6ZzR6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300px">
 </p>">
 </p>
